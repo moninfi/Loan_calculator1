@@ -90,7 +90,7 @@ sphinxcontrib-serializinghtml
 stack-data 
 terminado 
 tinycss2 
-tomli @
+tomli 
 tornado 
 traitlets
 typing_extensions 
