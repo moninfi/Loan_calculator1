@@ -71,7 +71,7 @@ pyrsistent
 PySocks 
 python-dateutil 
 pytz 
-pypiwin32==223
+pywin32==303; platform_system=="Windows"
 pywinpty 
 pyzmq 
 requests 
