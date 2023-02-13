@@ -69,7 +69,7 @@ Pygments
 pyOpenSSL 
 pyrsistent 
 PySocks 
-python-dateutil 
+python-dateutil==2.8.1
 pytz 
 pywin32==303; platform_system=="Windows"
 pywinpty 
@@ -95,7 +95,7 @@ tornado
 traitlets
 typing_extensions 
 urllib3 
-voila 
+voila==0.2.6
 wcwidth 
 webencodings==0.5.1
 websocket-client 
