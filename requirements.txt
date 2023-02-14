@@ -19,3 +19,10 @@ python-dateutil==2.8.1
 pywinpty==0.5.7
 voila==0.2.6
 widgetsnbextension==3.5.1
+Sphinx 
+sphinxcontrib-applehelp 
+sphinxcontrib-devhelp==1.0.2
+sphinxcontrib-htmlhelp 
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-serializinghtml 
